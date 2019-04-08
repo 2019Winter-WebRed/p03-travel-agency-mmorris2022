@@ -1,0 +1,29 @@
+/*
+* Maggie Morris
+* 4/9/18
+* Padua Panda travel Agency: St. Kitts and Nevis
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: lightcyan;/* The color of the background */
+    
+    
+}
+img{width: 500px; height: 400px;}
+
+table {border-collapse: collapse}/* The table isn't 3d anymore */
+table {color:lightsteelblue}/* color of the words in the table */
+table {border-color: lightblue}
+h1 {color:skyblue;} /* color of the heading */
+h2 {color: cornflowerblue;}
+h3 {color: cadetblue;}
+hr {color: darkturquoise;}
+body {color:darkblue;} /* the color of all the words in the body section that aren't already stated */
